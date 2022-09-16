@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test20220916"
+  site-url: "https://jbwhit.github.io/test20220916"
+  description: "Check that this works for test20220916."
+  repo-branch: master
+  repo-url: "https://github.com/jbwhit/test20220916"
